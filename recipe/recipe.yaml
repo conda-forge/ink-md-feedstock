@@ -1,5 +1,5 @@
 context:
-  version: "0.10.0"
+  version: "0.11.1"
 
 package:
   name: ink-md
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/borghei/ink/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e364e7a182a8817fd189bdfac8861df187758b58988bcb8ff52fe36eb9c3d459
+  sha256: 267be388e9a6e4f4e566a7e376f4bbda7367dba28e62456805368f33bbca0cf3
 
 build:
   number: 0
